@@ -1,0 +1,14 @@
+_id: env_d7cda2b7870ae8ade8cd7580cc3e519275205d57
+type: Environment
+parentId: wrk_cef9102966854e64b8c2af0e23b6e0b3
+modified: 1634034786878
+created: 1634034101254
+name: Base Environment
+data:
+  liveLiqour: https://test.com
+dataPropertyOrder:
+  "&":
+    - liveLiqour
+color: null
+isPrivate: false
+metaSortKey: 1634034101254

@@ -1,0 +1,30 @@
+_id: req_4f3fed2a91c542dcaa1786d708d28619
+type: Request
+parentId: fld_0cd871b23af947b68e4de1d9cb0b3720
+modified: 1634034773836
+created: 1634034724328
+url: "{{ _.liveLiqour }}/api/login"
+name: login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "admin@infikey.buzz",
+    	"password": "password"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_c74072018d5840529311045c93031e18
+authentication: {}
+metaSortKey: -1634034724329
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
